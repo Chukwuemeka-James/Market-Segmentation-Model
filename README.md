@@ -27,7 +27,6 @@ Missing values in the dataset are handled by filling in the mean values for miss
 - **Matplotlib & Seaborn**: Data visualization
 - **Scikit-learn**: Machine Learning algorithms and preprocessing
 - **Joblib & Pickle**: Model serialization
-- **Warnings**: For ignoring unnecessary warnings
 
 ## Project Workflow
 
